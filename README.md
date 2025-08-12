@@ -96,7 +96,7 @@ If you prefer to use the GitHub website:
 5.  **Push your local repository to GitHub:**
     Follow the instructions under "...or push an existing repository from the command line" on your new GitHub repository page. It will look something like this:
     ```bash
-    git remote add origin https://github.com/ispawoo/your-repository-name.git
+    git remote add origin https://github.com/ispawoo/InvoicePak-Quick-Simple-PDF-Invoices-for-Freelancers.git
     git push -u origin main
     ```
 
